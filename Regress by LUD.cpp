@@ -1,3 +1,6 @@
+//=======================================================================//
+//This LU decomposition uses total pivoting to reduce the numerical error//
+//=======================================================================//
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
